@@ -31,3 +31,4 @@ print(f"Driver {name} had {tripCount} trips totalling {round(totalTime)} "
       f"minutes in \n"
       f"The total income for the day was ${totalIncome:.2f}"
       f"The average cost of all trips was ${totalIncome / tripCount:.2f}")
+
